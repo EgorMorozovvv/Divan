@@ -1,0 +1,7 @@
+C:\Users\userman\Desktop\Study\Учебная практика\code\Divan\DAY_1\bin\Debug\DAY_1.exe.config
+C:\Users\userman\Desktop\Study\Учебная практика\code\Divan\DAY_1\bin\Debug\DAY_1.exe
+C:\Users\userman\Desktop\Study\Учебная практика\code\Divan\DAY_1\bin\Debug\DAY_1.pdb
+C:\Users\userman\Desktop\Study\Учебная практика\code\Divan\DAY_1\obj\Debug\DAY_1.csproj.AssemblyReference.cache
+C:\Users\userman\Desktop\Study\Учебная практика\code\Divan\DAY_1\obj\Debug\DAY_1.csproj.CoreCompileInputs.cache
+C:\Users\userman\Desktop\Study\Учебная практика\code\Divan\DAY_1\obj\Debug\DAY_1.exe
+C:\Users\userman\Desktop\Study\Учебная практика\code\Divan\DAY_1\obj\Debug\DAY_1.pdb
